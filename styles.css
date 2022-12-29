@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+html{
+    margin: 25px;
+    
+}
+.card-deck{
+    display: flex;
+    gap: 20px;
+}
